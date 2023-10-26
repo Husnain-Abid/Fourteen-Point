@@ -1,0 +1,37 @@
+.section {
+    background-color: rgb(69, 238, 69);
+    width: 100%;
+    padding: 5%;
+}
+
+.box-1 {
+    padding: 3%;
+    background-color: rgb(18, 218, 18);
+
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.box-2{
+    padding: 5%;
+
+}
+
+
+.content {
+    padding: 3%;
+
+} 
+
+.pointList {
+    line-height: 2.3rem;
+    list-style-type: square;
+}
+.footer{
+    padding: 3%;
+    text-align: center;
+}
